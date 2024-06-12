@@ -55,3 +55,8 @@ console.log(age);
 
 let address="ktm"
 console.log(address);
+
+let num1=5;
+let num2=1;
+console.log(num1+num2);
+
